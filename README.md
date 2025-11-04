@@ -1,16 +1,13 @@
-<!-- Banner Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00b4d8;">Imtiaz Uddin</span></h1>
-<h3 align="center">💻 Web & Mobile App Developer | Java | Angular | Spring Boot</h3>
-
+<!-- Animated Typing Banner -->
 <p align="center">
-  🚀 Passionate about building scalable, modern & user-friendly web and Android applications.  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Imtiaz+Uddin;💻+Web+%26+Mobile+App+Developer;☕+Java+%7C+Angular+%7C+Spring+Boot;🚀+Building+modern+web+%26+Android+applications" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧠 About Me
+- 🎓 Diploma in **Web and Mobile App Development using Spring Boot, Android & Flutter** from *IsDB-BISEW IT Scholarship Programme*  
 - 🎓 Graduated in **Economics** from *Feni Govt College*  
-- 💻 Working on a **Daraz-style B2C E-Commerce Web Application**  
+- 💻 Working on a **B2C E-Commerce Web Application**  
 - 🌱 Learning **Spring Boot** & **Advanced Angular**  
 - ⚙️ Love connecting **Frontend (Angular)** with **Backend (Spring Boot)**  
 - 🧩 Exploring modern web architecture, APIs, and authentication systems  
@@ -23,7 +20,7 @@
 | 💻 Frontend | HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, Angular |
 | 🧩 Backend | Java, Spring Boot, RESTful APIs |
 | 🗃️ Database | MySQL, JSON Server |
-| ⚙️ Tools | Git, GitHub, VS Code, IntelliJ IDEA, Postman |
+| ⚙️ Tools | Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, NetBeans, Postman |
 | 🚀 Others | Responsive Design, Authentication, CRUD, API Integration |
 
 ---
