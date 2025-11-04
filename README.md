@@ -47,7 +47,7 @@ A CRUD-based HR management system using Angular (frontend) & Spring Boot (backen
 <p align="center">
   <a href="https://github.com/imtiazuddin164"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/imtiazuddin164"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imtiazuddin164@gmail.com">imtiazuddin164@gmail.com<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:imtiazuddin164@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
