@@ -1,6 +1,15 @@
-<!-- Animated Typing Banner -->
+<!-- Banner Section -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00b4d8;">Imtiaz Uddin</span></h1>
+<h3 align="center">💻 Web & Mobile App Developer | Java | Angular | Spring Boot</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Imtiaz+Uddin;💻+Web+%26+Mobile+App+Developer;☕+Java+%7C+Angular+%7C+Spring+Boot;🚀+Building+modern+web+%26+Android+applications" alt="Typing SVG" />
+  🚀 Passionate about building scalable, modern & user-friendly web and Android applications.  
+</p>
+
+<!-- Visitor Counter + Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imtiazuddin164&label=👀+Profile+Views&color=0e75b6&style=flat" alt="Profile views counter" />
+  <img src="https://img.shields.io/github/followers/imtiazuddin164?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 ---
 
